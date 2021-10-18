@@ -1,5 +1,5 @@
 import React from "react";
-import "./css/post.css";
+import "./Post.css";
 import MoreHorizIcon from "@material-ui/icons/MoreHoriz";
 import { Avatar } from "@material-ui/core";
 import PublicIcon from "@material-ui/icons/Public";

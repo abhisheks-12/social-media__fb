@@ -1,7 +1,7 @@
 import React from "react";
 import Sidebaroptions from "./Sidebaroptions";
 import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
-import "./css/sidebar.css";
+import "./Sidebar.css";
 import { useStateValue } from "./StateProvider";
 
 const Sidebar = () => {

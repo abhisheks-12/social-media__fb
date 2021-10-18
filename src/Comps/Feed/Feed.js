@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import "./css/feed.css";
+import "./Feed.css";
 import { db } from "./firebase";
 import MessageSender from "./MessageSender";
 import Post from "./Post";

@@ -1,8 +1,8 @@
-import Feed from "./Feed";
-import Header from "./Header";
-import Login from "./Login";
-import RightSidebar from "./RightSidebar";
-import Sidebar from "./Sidebar";
+import Feed from "./Feed/Feed";
+import Header from "./Header/Header";
+import Login from "./Login/Login";
+import RightSidebar from "./RightSidebar/RightSidebar";
+import Sidebar from "./Sidebar/Sidebar";
 import { useStateValue } from "./StateProvider";
 
 function App() {

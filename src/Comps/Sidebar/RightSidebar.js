@@ -1,5 +1,5 @@
 import React from "react";
-import "./css/right.css";
+import "./RightSidebar.css";
 import MoreHorizIcon from "@material-ui/icons/MoreHoriz";
 import { Avatar } from "@material-ui/core";
 import NotificationsNoneIcon from "@material-ui/icons/NotificationsNone";

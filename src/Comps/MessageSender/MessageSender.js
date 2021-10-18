@@ -4,7 +4,7 @@ import VideoCallIcon from "@material-ui/icons/VideoCall";
 import PhotoLibraryIcon from "@material-ui/icons/PhotoLibrary";
 import InsertEmoticonIcon from "@material-ui/icons/InsertEmoticon";
 import CloseIcon from "@material-ui/icons/Close";
-import "./css/messagesender.css";
+import "./Messagesender.css";
 import { useStateValue } from "./StateProvider";
 import { db, storage } from "./firebase";
 import firebase from "firebase";
